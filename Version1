@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tutor Price Optimizer</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.16/tailwind.min.css">
+</head>
+<body class="bg-gray-100 font-sans">
+  <div class="max-w-3xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+    <div class="text-center">
+      <h1 class="text-4xl font-extrabold text-gray-900 sm:text-5xl lg:text-6xl">
+        Maximize Your Tutoring Earnings
+      </h1>
+      <p class="mt-4 text-xl text-gray-600">
+        Our price optimization tool helps you analyze demand, set optimal prices, and increase your earnings on tutoring platforms.
+      </p>
+    </div>
+
+    <div class="mt-10">
+      <div class="bg-white shadow overflow-hidden sm:rounded-lg">
+        <div class="px-4 py-5 sm:px-6">
+          <h3 class="text-lg leading-6 font-medium text-gray-900">
+            How It Works
+          </h3>
+          <p class="mt-1 max-w-2xl text-sm text-gray-500">
+            Our tool analyzes market data, your past performance, and student demand to recommend the best pricing for your tutoring services.
+          </p>
+        </div>
+        <div class="border-t border-gray-200 px-4 py-5 sm:px-6">
+          <img src="/api/placeholder/800/400" alt="Price Optimization Dashboard" class="w-full">
+        </div>
+        <div class="px-4 py-5 sm:p-6">
+          <a href="#" class="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700">
+            Try it Free
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-10">
+      <div class="bg-white shadow overflow-hidden sm:rounded-lg">
+        <div class="px-4 py-5 sm:px-6">
+          <h3 class="text-lg leading-6 font-medium text-gray-900">
+            What Our Users Say
+          </h3>
+          <p class="mt-1 max-w-2xl text-sm text-gray-500">
+            Hear from tutors who have used our tool to increase their earnings.
+          </p>
+        </div>
+        <div class="border-t border-gray-200 px-4 py-5 sm:px-6">
+          <blockquote class="text-base text-gray-700 sm:border-l sm:pl-6">
+            <p class="font-medium">
+              "Using the Tutor Price Optimizer helped me increase my hourly rate by 20% and boost my monthly earnings!"
+            </p>
+            <cite class="mt-4 block font-medium text-gray-900">
+              - Sarah, Elementary Math Tutor
+            </cite>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
